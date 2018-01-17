@@ -1,0 +1,16 @@
+﻿
+__title__           = "PtG-Analysis Prignitz"
+__date__            = "2018-01-15"
+__author__          = "Anna Seefried"
+__copyright__       = "© Reiner Lemoine Institut"
+__license__         = "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+__license_url__     = "https://creativecommons.org/licenses/by/4.0/legalcode"
+__instructions__    = "You are free: To Share, To Create, To Adapt; As long as you: Attribute"
+__citation__        = "PtG-Analysis Prignitz © Reiner Lemoine Institut | CC BY 4.0"
+
+__acknowledgement__= "Ludwig Hülk"
+
+## additional information
+# font: ""
+# size: ""
+# colour: RGB = "" ; hex = ""
